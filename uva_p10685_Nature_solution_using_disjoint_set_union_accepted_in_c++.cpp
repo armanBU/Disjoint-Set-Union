@@ -2,7 +2,7 @@
     Sk arman Hossain
     University of Barisal
 
-    Problem name :uva_p459_Graph Connectivity
+    Problem name :uva_p10685_Nature
     Algorithm :Disjoint set union(dsu)
  */
 
